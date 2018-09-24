@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   main: {
     prefix: 'STM',
     chainId: '0000000000000000000000000000000000000000000000000000000000000000',
