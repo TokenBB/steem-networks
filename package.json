@@ -1,6 +1,6 @@
 {
   "name": "steem-networks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "dictionary of steem networks",
   "main": "index.js",
   "scripts": {
